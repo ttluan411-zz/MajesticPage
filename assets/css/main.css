@@ -1893,7 +1893,7 @@
 		display: inline-block;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 0.8rem;
-		font-weight: 900;
+		font-weight: 700;
 		letter-spacing: 0.075em;
 		height: 3rem;
 		line-height: 3rem;
@@ -1909,7 +1909,7 @@
 		input[type="button"].icon:before,
 		button.icon:before,
 		.button.icon:before {
-			margin-right: 0.5rem;
+			/*margin-right: 0.5rem;*/
 		}
 
 		input[type="submit"].icon.solo,
@@ -1952,7 +1952,7 @@
 		button.fit,
 		.button.fit {
 			display: block;
-			margin: 0 0 1rem 0;
+			margin: 0 0 0 0;
 			width: 100%;
 		}
 
@@ -2405,7 +2405,7 @@
 			-webkit-font-smoothing: antialiased;
 			font-family: FontAwesome;
 			font-style: normal;
-			font-weight: normal;
+			font-weight: bolder;
 			text-transform: none !important;
 		}
 
@@ -2727,6 +2727,7 @@
 
 		header > p {
 			font-style: italic;
+
 		}
 
 		header > h1 + p {
@@ -2761,7 +2762,7 @@
 
 			header.major > p {
 				margin-top: 0;
-				text-align: center;
+				text-align: left;
 			}
 
 			header.major > .date {
