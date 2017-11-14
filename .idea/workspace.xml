@@ -164,7 +164,7 @@
       <updated>1510103374638</updated>
       <workItem from="1510103376582" duration="413000" />
       <workItem from="1510465327857" duration="1600000" />
-      <workItem from="1510468577289" duration="9957000" />
+      <workItem from="1510468577289" duration="10555000" />
     </task>
     <task id="LOCAL-00001" summary="added codepen">
       <created>1510479373582</created>
@@ -177,11 +177,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11970000" />
+    <option name="totallyTimeSpent" value="12568000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1172619" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
